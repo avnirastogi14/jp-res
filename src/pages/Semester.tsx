@@ -1,13 +1,13 @@
 const subjects = [
   { name: "Computer Organisation and Architecture", code: "15B11CI313", grade: "A", credits: 4 },
-  { name: "Introduction to Big Data and Data Analytics", code: "20B12CS333", grade: "A", credits: 3 },
+  { name: "Introduction to Big Data and Data Analytics", code: "20B12CS333", grade: "A+", credits: 3 },
   { name: "Minor Project", code: "20B13HS311", grade: "B+", credits: 2 },
   { name: "Computer Organisation and Architecture Lab", code: "15B17CI373", grade: "A", credits: 1 },
   { name: "Open Source Software Lab", code: "15B17CI575", grade: "B+", credits: 1 },
-  { name: "Operating Systems and Systems Programming", code: "15B11CI412", grade: "A", credits: 1 },
-  { name: "Engineering Materials and Technology", code: "20B12PH311", grade: "A", credits: 3 },
+  { name: "Operating Systems and Systems Programming", code: "15B11CI412", grade: "B+", credits: 1 },
+  { name: "Engineering Materials and Technology", code: "20B12PH311", grade: "B+", credits: 3 },
   { name: "Consumer Behaviour", code: "25B12HS311", grade: "A+", credits: 3 },
-  { name: "Operating Systems and Systems Programming Lab", code: "15B17CI472", grade: "B+", credits: 4 },
+  { name: "Operating Systems and Systems Programming Lab", code: "15B17CI472", grade: "A", credits: 4 },
   { name: "Information Security Lab", code: "15B17CI576", grade: "A", credits: 1 },
 ];
 
